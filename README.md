@@ -1,1 +1,1 @@
-# myWidget
+# myWidgets
